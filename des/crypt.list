@@ -1,0 +1,319 @@
+aespipe - AES-encryption tool with loop-AES support
+aircrack - wireless WEP/WPA cracking utilities (transitional package)
+aircrack-ng - wireless WEP/WPA cracking utilities
+airsnort - WLAN sniffer
+anon-proxy - Proxy to surf the web anonymously
+apg - Automated Password Generator - Standalone version
+ayttm - Universal Instant Messaging Client
+balsa - An e-mail client for GNOME
+bcrypt - Cross platform file encryption utility using blowfish
+beidgui - application to read out information from the Belgian electronic ID card
+bitchx-ssl - SSL support for BitchX
+ccrypt - secure encryption and decryption of files and streams
+cfs - Cryptographic Filesystem
+cipe-source - lightweight encrypted IP tunnels over UDP (source)
+cl-blowfish - Common Lisp Blowfish encryption
+cl-ironclad - Cryptography package for ANSI Common Lisp
+cl-rsm-rsa - McIntire's Common Lisp RSA Library
+cmail - A mail user agent for GNU Emacs
+cmail-icons - Icons for cmail on XEmacs
+codegroup - Convert any file, including binary, into 5 letter code
+cons - a Perl replacement for Make
+crack - Password guessing program
+crack-common - Password guessing program
+crank - A classical CRypto ANalysis toolKit
+cryptcat - TCP/IP swiss army knife extended with twofish encryption
+cryptmount - Management and user-mode mounting of encrypted file systems
+cryptonit - A client side PKI (X.509) cryptographic tool
+cryptplug - Collection of plugins to crytographic engines
+cryptplug-dev - Collection of plugins to crytographic engines
+cryptsetup - configures encrypted block devices
+crywrap - Simple TCP service encryption using TLS/SSL
+cupsys-pt - Tool for viewing/managing print jobs under CUPS
+cvsnt - A better CVS
+dact - Multi-algorithm compression
+debsigs - applies cryptographic signatures to Debian packages
+diakonos - Customizable, usable console-based text editor
+duplicity - encrypted bandwidth-efficient backup
+ekg - console Gadu Gadu client for UNIX systems
+encfs - encrypted virtual filesystem
+enigmail - GnuPG support for Icedove
+ent - pseudorandom number sequence test program
+etalk - talk client for the Emacs editor
+etpan-ng - console mail user agent based on libEtPan!
+exim4-daemon-light - lightweight exim MTA (v4) daemon
+filezilla - Port of the famous Win32 graphical FTP client
+ftp-ssl - The FTP client with SSL or TLS encryption support
+ftpd-ssl - FTP server with SSL encryption support
+gaim-encryption - gaim plugin that provides transparent encryption
+gaim-otr - Off-the-Record Messaging plugin for gaim
+gcipher - A simple "encryption" tool
+gjots2 - A simple jotter (outline processor) for X11/gtk-gnome
+gnupg - GNU privacy guard - a free PGP replacement
+gnupg-agent - GNU privacy guard - password agent
+gnupg2 - GNU privacy guard - a free PGP replacement
+gpass - The password manager for GNOME2
+gpgp - GNOME front-end to GnuPG - a free PGP replacement
+gpgsm - GNU privacy guard - S/MIME version
+gproftpd - GTK+ configuration tool for proftpd
+gq - GTK-based LDAP client
+gringotts - store passwords in an encrypted file
+gs-esp - The Ghostscript PostScript interpreter - ESP version
+gs-gpl - The GPL Ghostscript PostScript interpreter
+gtalk - plug-in replacement for standard talk
+guarddog - firewall configuration utility for KDE
+gxine - the xine video player, GTK+/Gnome user interface
+hashalot - Read and hash a passphrase
+hdup - Filesystem duplicator and backup
+ibackup - Automated backups (even remote) of machine configurations
+idecrypt - decrypt an encrypted response from pidentd
+ihu - Qt VoIP softphone with an own, encrypted protocol
+ircd-hybrid - high-performance secure IRC server
+ircii - Internet Relay Chat client
+junior-math - Debian Jr. educational math
+kasablanca - fast and free ftp client for KDE
+kgpg - GnuPG frontend for KDE
+ktorrent - BitTorrent client for KDE
+kuvert - A wrapper that encrypts or signs outgoing mail
+kwalletmanager - wallet manager for KDE
+kwavecontrol - Wireless device monitoring application for KDE
+kwlan - wpasupplicant frontend for KDE
+libapache-htpasswd-perl - Manage Unix crypt-style password file
+libapache-mod-ssl - Strong cryptography (HTTPS support) for Apache
+libapache-mod-ssl-doc - Documentation for Apache module mod_ssl
+libbcmail-java - Bouncy Castle generators/processors for S/MIME and CMS
+libbcmail-java-gcj - Bouncy Castle generators/processors for S/MIME and CMS
+libbcpg-java - Bouncy Castle generators/processors for OpenPGP
+libbcpg-java-gcj - Bouncy Castle generators/processors for OpenPGP
+libbcprov-java - Bouncy Castle Java Cryptographic Service Provider
+libbcprov-java-doc - Documentation for libbcprov-java
+libbcprov-java-gcj - Bouncy Castle Java Cryptographic Service Provider
+libbctsp-java - Bouncy Castle generators/processors for TSP
+libbctsp-java-gcj - Bouncy Castle generators/processors for TSP
+libbeecrypt6 - open source C library of cryptographic algorithms
+libbeecrypt6-dev - header files for beecrypt, a library of cryptographic algorithms
+libccid - PC/SC driver for USB CCID smart card readers
+libcflexplugin - MuscleCard Cryptoflex PlugIn
+libchipcard2-libgwenhywfar38-plugins - crypttoken plugin to libgwenhywfar
+libcrypt-blowfish-perl - Blowfish cryptography for Perl
+libcrypt-cbc-perl - Implementation of cipher block chaining (CBC) mode
+libcrypt-ciphersaber-perl - Perl module implementing CipherSaber encryption
+libcrypt-des-ede3-perl - Triple-DES EDE encryption/decryption for perl
+libcrypt-des-perl - Perl DES encryption module
+libcrypt-dh-perl - Diffie-Hellman key exchange system implemented in Perl
+libcrypt-ecb-perl - Perl library to encrypt data using ECB mode
+libcrypt-gpg-perl - An Object Oriented Interface to GnuPG
+libcrypt-hcesha-perl - Perl extension for one way hash chaining encryption using SHA
+libcrypt-openssl-bignum-perl - Access OpenSSL multiprecision integer arithmetic libraries
+libcrypt-openssl-dsa-perl - Module which implements the DSA signature verification system
+libcrypt-openssl-random-perl - Access to the OpenSSL pseudo-random number generator
+libcrypt-openssl-rsa-perl - Perl module providing basic RSA functionality
+libcrypt-passwdmd5-perl - interoperable MD5-based crypt() for perl
+libcrypt-rijndael-perl - Perl module implementing the Rijndael algorithm
+libcrypt-simple-perl - Perl library to encrypt stuff simply
+libcrypt-smbhash-perl - generate LM/NT hash of a password for samba
+libcrypt-ssleay-perl - Support for https protocol in LWP
+libcrypt-unixcrypt-perl - Perl-only implementation of the crypt(3) function
+libcrypto++-dev - General purpose cryptographic C++ library - development
+libcrypto++-doc - General purpose cryptographic library - documentation
+libcrypto++-utils - General purpose cryptographic library - utilities and data files
+libcrypto++5.2c2a - General purpose cryptographic shared library
+libcryptokit-ocaml - cryptographic algorithm library for OCaml - runtime
+libcryptokit-ocaml-dev - cryptographic algorithm library for OCaml - development
+libdbd-ldap-perl - Perl extension for LDAP access via an SQL/Perl DBI interface
+libdvdread-dev - library for reading DVDs (development)
+libdvdread3 - library for reading DVDs
+libenet-dev - devel files for libenet, a UDP networking library
+libengine-pkcs11-openssl - OpenSSL engine for PKCS#11 modules
+libetoken - PC/SC Driver for Aladdin's eToken usb plug
+libevent-rpc-perl - Event based transparent Client/Server RPC framework
+libfilter-perl - Perl source filters
+libgcrypt11 - LGPL Crypto library - runtime library
+libgcrypt11-dbg - LGPL Crypto library - debugger files
+libgcrypt11-dev - LGPL Crypto library - development files
+libgcrypt11-doc - LGPL Crypto library - documentation
+libgnucrypto-java - full-featured cryptographic library in Java
+libgnupg-interface-perl - Perl interface to GnuPG
+libgnupg-perl - Perl module interface to GnuPG using GnuPG's coprocess interface
+libgpg-error-dev - library for common error values and messages in GnuPG components
+libgpg-error0 - library for common error values and messages in GnuPG components
+libgpgme-dev - GPGME - GnuPG Made Easy
+libgpgme-ruby - GPGME bindings for the Ruby language
+libgpgme-ruby1.8 - GPGME bindings for the Ruby language
+libgpgme-ruby1.9 - GPGME bindings for the Ruby language
+libgpgme11 - GPGME - GnuPG Made Easy
+libgpgme11-dev - GPGME - GnuPG Made Easy
+libgpgme6 - GPGME - GnuPG Made Easy
+libgringotts2 - encapsulate data in an encrypted and compressed file
+libio-socket-ssl-perl - Perl module implementing object oriented interface to SSL sockets
+libmail-gnupg-perl - Perl module for processing email with GPG
+libmatrixssl1.7 - small SSL library optimized for embedded systems
+libmatrixssl1.7-dev - small SSL library optimized for embedded systems (development files)
+libmatrixssl1.7-doc - small SSL library optimized for embedded systems (documentation)
+libmcardplugin - MuscleCard Applet PlugIn
+libmcrypt-dev - De-/Encryption Library development files
+libmcrypt4 - De-/Encryption Library
+libmhash-dev - Library for cryptographic hashing and message authentication
+libmhash2 - Library for cryptographic hashing and message authentication
+libmodule-signature-perl - Module signature file manipulation
+libmusclepkcs11 - PKCS#11 support using the MuscleCard framework
+libnet-easytcp-perl - Easily create secure, bandwidth-friendly TCP/IP clients and servers
+libnet-ssleay-perl - Perl module for Secure Sockets Layer (SSL)
+libnettle-dev - low level cryptographic library (development files)
+libnettle2 - low level cryptographic library
+libnumerix-ocaml - Numerix "big integer" library for OCaml - runtime
+libnumerix-ocaml-dev - Numerix "big integer" library for OCaml
+libobject-signature-perl - Signature - Generate cryptographic signatures for objects
+libopencdk8 - Open Crypto Development Kit (OpenCDK) (runtime)
+libopencdk8-dbg - Open Crypto Development Kit (OpenCDK) (development files)
+libopencdk8-dev - Open Crypto Development Kit (OpenCDK) (development files)
+libopensc2 - SmartCard library with support for PKCS#15 compatible smart cards
+libopensc2-dbg - debugging symbols for libopensc2
+libotr2 - Off-the-Record Messaging library
+libotr2-bin - toolkit for Off-the-Record Messaging library
+libotr2-dev - Off-the-Record Messaging library development files
+libpam-encfs - PAM module to automatically mount encfs filesystems on login
+libpam-mount - PAM module that can mount volumes for a user session
+libpam-opie - Use OTPs for PAM authentication
+libpam-smbpass - pluggable authentication module for SMB/CIFS password database
+libpam-ssh - enable SSO behavior for ssh and pam
+libpam-unix2 - Blowfish-capable PAM module
+libqca1c2 - Qt Cryptographic Architecture - shared library
+libsha-ocaml - SHA cryptographic hash functions for OCaml
+libsha-ocaml-dev - SHA cryptographic hash functions for OCaml
+libssl-dev - SSL development libraries, header files and documentation
+libssl-ocaml - OCaml bindings for OpenSSL
+libssl-ocaml-dev - OCaml bindings for OpenSSL
+libssl0.9.7 - SSL shared libraries
+libssl0.9.7-dbg - Symbol tables for libssl and libcrypt
+libssl0.9.8 - SSL shared libraries
+libssl0.9.8-dbg - Symbol tables for libssl and libcrypt
+libtwofish-dev - Niels Ferguson's Twofish cryptographic algorithm library
+libwvstreams4.2-extras - C++ network libraries for rapid application development
+libxcrypt-dev - Development files for Crypt library
+libxcrypt1 - Crypt library for DES, MD5, and blowfish
+libxmlsec1 - XML security library
+libxmlsec1-dev - Development files for the XML security library
+libxmlsec1-gnutls - Gnutls engine for the XML security library
+libxmlsec1-nss - Nss engine for the XML security library
+libxmlsec1-openssl - Openssl engine for the XML security library
+libzrtpcpp-0.9-0 - ccrtp extension for zrtp/Zfone support
+libzrtpcpp-dev - Headers and static link library for libzrtpcpp
+licq - ICQ client (base files)
+loop-aes-modules-2.6-amd64 - loop-AES encryption modules for Linux 2.6 on AMD64
+loop-aes-modules-2.6-vserver-amd64 - loop-AES encryption modules for Linux 2.6 on AMD64
+loop-aes-modules-2.6-xen-amd64 - loop-AES encryption modules for Linux 2.6 on AMD64
+loop-aes-modules-2.6-xen-vserver-amd64 - loop-AES encryption modules for Linux 2.6 on AMD64
+loop-aes-modules-2.6.18-5-amd64 - loop-AES encryption modules for Linux 2.6.18 on AMD64
+loop-aes-modules-2.6.18-5-vserver-amd64 - loop-AES encryption modules for Linux 2.6.18 on AMD64
+loop-aes-modules-2.6.18-5-xen-amd64 - loop-AES encryption modules for Linux 2.6.18 on AMD64
+loop-aes-modules-2.6.18-5-xen-vserver-amd64 - loop-AES encryption modules for Linux 2.6.18 on AMD64
+loop-aes-source - source for loop-AES encryption modules
+loop-aes-testsuite - test suite for loop-AES encryption modules
+lsh-client - Secure Shell v2 (SSH2) protocol client
+lsh-server - Secure Shell v2 (SSH2) protocol server
+lsh-utils - Secure Shell v2 (SSH2) protocol utilities
+lsh-utils-doc - Secure Shell v2 (SSH2) client / server / utilities documentation
+mailcrypt - An Emacs interface to the GNU Privacy Guard
+makepasswd - Generate and encrypt passwords
+mcrypt - Replacement for old unix crypt(1)
+medussa - Distributed password cracking system
+mh-e - Emacs interface to the MH mail system
+mped - Minimum Profit, a programmer's text editor
+mpop - POP3 mail retriever
+mserv - local centralised multiuser music server
+muscletools - Manage and personalize your MuscleCard smartcards
+mutt - text-based mailreader supporting MIME, GPG, PGP and threading
+mypasswordsafe - Easy-to-use password manager
+nail - feature-rich BSD mail(1)
+nettle-bin - low level cryptographic library (binary tools)
+network-manager-gnome - network management framework (GNOME frontend)
+ntfsprogs - tools for doing neat things in NTFS partitions from Linux
+numerix-doc - Numerix "big integer" library for C and OCaml - documentation
+ogle - DVD player with support for DVD menus
+ogle-mmx - DVD player with support for DVD menus
+opensc - SmartCard utilities with support for PKCS#15 compatible cards
+openssh-client - Secure shell client, an rlogin/rsh/rcp replacement
+openssh-server - Secure shell server, an rshd replacement
+openssl - Secure Socket Layer (SSL) binary and related cryptographic tools
+openswan - IPSEC utilities for Openswan
+openvpn - Virtual Private Network daemon
+partimage-server - server to use partimage across a network
+pawserv - Cernlib's distributed PAW and file transfer servers
+pdftk - A useful tool for manipulating PDF documents
+pdftohtml - Translates pdf documents into html format
+pgadmin3 - graphical administration tool for PostgreSQL
+php4-mcrypt - MCrypt module for php4
+pike-public.network.pcap - Pike interface module for the pcap library (default)
+pike-public.parser.xml2 - libxml2-based XML parser module for Pike (default version)
+pike-public.protocols.syslog - Pike module implementing the Syslog protocol (default)
+pike-public.tools.configfiles - Pike module for accessing ini-style configurations (default)
+pike7.6-core - Powerful interpreted programming language
+pike7.6-pexts-mcrypt - Pike mcrypt module
+pike7.6-public.network.pcap - Pike interface module for the pcap library
+pike7.6-public.parser.xml2 - libxml2-based XML parser module for Pike
+pike7.6-public.protocols.syslog - Pike module implementing the Syslog protocol
+pike7.6-public.tools.configfiles - Pike module for accessing ini-style configurations
+pinentry-curses - curses-based PIN or pass-phrase entry dialog for GnuPG
+pinentry-gtk - GTK+-based PIN or pass-phrase entry dialog for GnuPG
+pinentry-gtk2 - GTK+-2-based PIN or pass-phrase entry dialog for GnuPG
+pinentry-qt - Qt-based PIN or pass-phrase entry dialog for GnuPG
+pmount - mount removable devices as normal user
+postgresql-contrib-7.4 - additional facilities for PostgreSQL
+postgresql-contrib-8.1 - additional facilities for PostgreSQL
+powstatd - Configurable UPS monitoring daemon
+powstatd-crypt - Transitional package to migrate to powstatd
+pptp-linux - Point-to-Point Tunneling Protocol (PPTP) Client
+pwman3 - console password managment application
+pwsafe - command line encrypted password database manager
+python-crypto - cryptographic algorithms and protocols for Python
+python-m2crypto - a crypto and SSL toolkit for Python
+python-pyme - Python interface to the GPGME GnuPG encryption library
+python-pyme-doc - Python interface to the GPGME GnuPG encryption library
+qca-dev - Qt Cryptographic Architecture - development files
+qca-tls - TLS plugin for the Qt Cryptographic Architecture (QCA)
+regionset - view and modify the region code of DVD drives
+revelation - GNOME2 Password manager
+rotix - A program to generate rotational obfuscations
+rsyncrypto - rsync friendly encryption
+samhain - Data integrity and host intrusion alert system
+seahorse - A Gnome front end for GnuPG
+seccure - tools for using algorithms based on elliptic curve cryptography (ECC)
+sendfile - Simple Asynchronous File Transfer
+shishi - Command line client for the Shishi Kerberos v5 implementation
+sks-ecc - Cryptographic tool based on ECC
+sks-ecc-doc - Documentation for sks-ecc, a cryptographic tool based on ECC
+snowflake - An interactive snowflake generator
+ssldump - An SSLv3/TLS network protocol analyzer
+starttls - TLS encryption helper program
+steghide - A steganography hiding tool
+stone - TCP/IP packet repeater in the application layer.
+strongswan - IPSec utilities for strongSwan
+stunnel - Universal SSL tunnel for network daemons
+stunnel4 - Universal SSL tunnel for network daemons
+sylpheed-claws-gtk2-etpan-privacy - Privacy handling plugin for Sylpheed-Claws GTK2 mailer
+sylpheed-claws-gtk2-pgpinline - PGP/inline plugin for Sylpheed-Claws GTK2
+sylpheed-claws-gtk2-pgpmime - PGP/MIME plugin for Sylpheed-Claws GTK2
+sylpheed-claws-gtk2-smime-plugin - S/MIME signature/encryption handling for Sylpheed-Claws GTK2
+sylpheed-claws-pgpinline-plugin - PGP-inline checking/decryption plugin for Sylpheed Claws
+sylpheed-claws-pgpmime - PGP/MIME plugin for Sylpheed Claws
+sympa - Modern mailing list manager
+tcllib - the Standard Tcl Library
+tcltls - The TLS OpenSSL extension to Tcl
+telnet-ssl - The telnet client with SSL encryption support
+telnetd-ssl - The telnet server with SSL encryption support
+ucarp - user-space replacement to VRRP -- automatic IP fail-over
+unzip - De-archiver for .zip files
+update-manager - GNOME application that manages software updates
+vtun - Virtual Tunnel over TCP/IP Networks
+whois - the GNU whois client
+wlassistant - User friendly KDE frontend for wireless network connection
+xmlsec1 - XML security command line processor
+xpdf-reader - Portable Document Format (PDF) suite -- viewer for X11
+yardradius - YARD Radius Auth/Acct Server
+zip - Archiver for .zip files
+znc - an advanced IRC bouncer
+zope-passwordresettool - password reset tool for Plone
+zsafe - Password manager with encryption
+loop-aes-utils - Tools for mounting and manipulating filesystems
+php5-mcrypt - MCrypt module for php5
