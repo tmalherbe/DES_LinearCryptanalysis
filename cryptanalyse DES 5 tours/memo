@@ -1,0 +1,112 @@
+approximation linéaire du DES à 5 tours :
+
+(x = x63...x0)
+
+Ph[15] ^ Pl[7,18,24,27,28,29,30,31] ^ Ch[15] ^ Cl[7,18,24,27,28,29,30,31] =
+K1[42,43,45,46] ^ K2[22] ^ K4[22] ^ K5[42,43,45,46] (biais ~ 1/50)
+
+soit (x = x0...x63)
+
+i-->63-i
+j-->31-j
+k-->47-k
+
+Ph[16] ^ Pl[0,1,2,3,4,7,13,24] ^ Ch[16] ^ Cl[0,1,2,3,4,7,13,24] =
+K1[1,2,4,5] ^ K2[25] ^ K4[25] ^ K5[1,2,4,5] 
+
+soit
+
+((plaintext[2] &0x80)>>7)
+((plaintext[4] &0x80)>>7)^
+((plaintext[4] &0x40)>>6)^
+((plaintext[4] &0x20)>>5)^
+((plaintext[4] &0x10)>>4)^
+((plaintext[4] &0x08)>>3)^
+((plaintext[4] &0x01)   )^
+((plaintext[5] &0x04)>>2)^
+((plaintext[7] &0x80)>>7)^
+((ciphertext[2] &0x80)>>7)
+((ciphertext[4] &0x80)>>7)^
+((ciphertext[4] &0x40)>>6)^
+((ciphertext[4] &0x20)>>5)^
+((ciphertext[4] &0x10)>>4)^
+((ciphertext[4] &0x08)>>3)^
+((ciphertext[4] &0x01)   )^
+((ciphertext[5] &0x04)>>2)^
+((ciphertext[7] &0x80)>>7)^
+
+==
+
+((exp_key[0][0] &0x40)>>6)^((exp_key[0][0] &0x20))>>5)^((exp_key[0][0] &0x08)>>3)^((exp_key[0][0] &0x04)>>2)^
+((exp_key[1][4] &0x40)>>6)^((exp_key[3][4] &0x40)>>6)^
+((exp_key[4][0] &0x40)>>6)^((exp_key[4][0] &0x20))>>5)^((exp_key[4][0] &0x08)>>3)^((exp_key[4][0] &0x04)>>2)
+
+Ph[15] ^ Pl[7,18,24,27,28,29,30,31] ^ Ch[15] ^ Cl[7,18,24,27,28,29,30,31]
+=
+K1[42,43,45,46] ^ K2[22] ^ K4[22] ^ K5[42,43,45,46]
+
+soit
+
+Ph[16] ^ Pl[0,1,2,3,4,7,13,24] ^ Ch[16] ^ Cl[0,1,2,3,4,7,13,24]
+=
+K1[1,2,4,5] ^ K2[25] ^ K4[25] ^ K5[1,2,4,5]
+
+soit 
+
+((plaintext[2]  &0x80)>>7)^((plaintext[4]  &0x80)>>7)^((plaintext[4]  &0x40)>>6)^((plaintext[4]  &0x20)>>5)^((plaintext[4]  &0x10)>>4)^
+((plaintext[4]  &0x08)>>3)^((plaintext[4]  &0x01)   )^((plaintext[5]  &0x04)>>2)^((plaintext[7]  &0x80)>>7)^
+((ciphertext[2] &0x80)>>7)^((ciphertext[4] &0x80)>>7)^((ciphertext[4] &0x40)>>6)^((ciphertext[4] &0x20)>>5)^((ciphertext[4] &0x10)>>4)^
+((ciphertext[4] &0x08)>>3)^((ciphertext[4] &0x01)   )^((ciphertext[5] &0x04)>>2)^((ciphertext[7] &0x80)>>7)
+=
+((exp_key[0][0] &0x40)>>6)^((exp_key[0][0] &0x20)>>5)^((exp_key[0][0] &0x08)>>3)^((exp_key[0][0] &0x04)>>2)^
+((exp_key[1][4] &0x40)>>6)^((exp_key[3][4] &0x40)>>6)^
+((exp_key[4][0] &0x40)>>6)^((exp_key[4][0] &0x20)>>5)^((exp_key[4][0] &0x08)>>3)^((exp_key[4][0] &0x04)>>2)
+
+Ph[15] ^ Pl[alpha,beta] ^ Ch[15] ^ Cl[alpha,beta]
+=
+K1[gamma] ^ K2[22] ^ K4[22] ^ K5[gamma]
+
+soit
+
+Ph[15] ^ Pl[7,18,24,27,28,29,30,31] ^
+Ch[15] ^ Cl[7,18,24,27,28,29,30,31]
+=
+K1[7,18,24] ^ K2[22] ^ K4[22] ^ K5[7,18,24]
+
+soit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
